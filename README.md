@@ -34,5 +34,3 @@
     7. Final Project - *IBM HR Analytics Employee Attrition Modeling*
 
 + **Star and Fork this Repository if you Like**
-
-    
