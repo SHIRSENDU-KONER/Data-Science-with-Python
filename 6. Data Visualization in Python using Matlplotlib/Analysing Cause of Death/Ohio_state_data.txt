@@ -1,0 +1,10 @@
+
+cause of deaths
+--------------------
+
+Chronic Disease, Unintetional Injuries, Alzheimers, Infuenza and Pneumonia, Sepsis,Others
+
+
+Percentile (in order with cause of deaths as mentioned above)
+---------------------------------------------------------------
+62, 5, 4, 2, 1 , 26 
