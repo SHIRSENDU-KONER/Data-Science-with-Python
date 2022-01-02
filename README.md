@@ -1,5 +1,5 @@
 + This Repository is for **BEGINNERS** who want to learn **DATA SCIENCE**.
-+ The contents of this repository have been made after watching various courses/videos from online for *free*.
++ The contents of this repository have been made after watching various courses/videos online for *free*.
 
 + The following are the projects included here--
     1. Mathematical Computation With Python (NumPy)
