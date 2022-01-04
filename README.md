@@ -22,7 +22,7 @@
     5. Natural Language Processing with SCIKIT-LEARN
         1. NLP - Bag of Words
         2. NLP - Sentence Analysis
-        3. NPL - Pipeline and Grid Search
+        3. NLP - Pipeline and Grid Search
         4. NLP - Sentiment Analysis
         5. NLP - Spam Detection
 
